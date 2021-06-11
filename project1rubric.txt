@@ -1,0 +1,50 @@
+Assignment 1 Rubric
+Criteria	Ratings	Pts
+Imports statistics module
+3 pts
+Full Marks
+Meets criterion
+0 pts
+No Marks
+Does not meet criterion
+3 / 3 pts
+Student class
+16 to >15 pts
+Full Marks
+Meets criterion
+15 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+16 / 16 pts
+basic_stats() function
+10 to >9 pts
+Full Marks
+Meets criterion
+9 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+10 / 10 pts
+Calculates things correctly
+21 to >20 pts
+Full Marks
+Meets criterion
+20 to >0 pts
+Partial Marks
+Partly meets criterion
+0 pts
+No Marks
+Does not meet criterion
+21 / 21 pts
+Penalty
+0 pts
+Full Marks
+0 pts
+No Marks
+-- / 0 pts
+Total Points: 50
